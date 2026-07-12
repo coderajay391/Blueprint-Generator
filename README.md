@@ -10,7 +10,7 @@ This project is an educational **full‑stack blueprint generator**. It helps be
 > Note: The app can run with a **Gemini API key** for live generation, but it also includes a **fully offline fallback** so the experience still works without external API access.
 
 ## Preview
-(dist/assets/blueprint-generator.png)
+[preview](dist/assets/blueprint-generator.png)
 
 ## Demo
 [watch Demo](dist/assets/blueprint-generator.mp4)
