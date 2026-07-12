@@ -11,6 +11,7 @@ This project is an educational **full‑stack blueprint generator**. It helps be
 
 ## Preview
 [preview](dist/assets/blueprint-generator.png)
+<image src="./dist/assets/blueprint-generator.png">preview</image>
 
 ## Demo
 [watch Demo](dist/assets/blueprint-generator.mp4)
